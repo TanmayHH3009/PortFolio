@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+html{
+    scroll-behavior: smooth;
+}
+
+.show {
+    transform: translateY(0);
+  }
+
+ .card{
+ 
+    
+   }
+     .card:hover {
+    transform: scale(1.05);
+    transition: all 0.3s ease-out;
+    box-shadow: 2px black;
+    --tw-shadow-color: #03ff35;
+    --tw-shadow: var(--tw-shadow-colored);
+  }
