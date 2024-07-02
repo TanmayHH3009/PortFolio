@@ -20,3 +20,99 @@ html{
     --tw-shadow-color: #03ff35;
     --tw-shadow: var(--tw-shadow-colored);
   }
+
+.bgl50 {
+    --tw-bg-opacity: 1;
+    background-color: rgb(247 254 231 / var(--tw-bg-opacity)) /* #f7fee7 */;
+}
+
+.bgl300 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(190 242 100 / var(--tw-bg-opacity)) /* #bef264 */;
+}
+
+.sg600 {
+  --tw-shadow-color: #16a34a;
+  --tw-shadow: var(--tw-shadow-colored);
+}
+
+.hsg500:hover {
+  --tw-shadow-color: #22c55e;
+  --tw-shadow: var(--tw-shadow-colored);
+}
+
+.tp500 {
+  --tw-text-opacity: 1;
+  color: rgb(168 85 247 / var(--tw-text-opacity)) /* #a855f7 */;
+}
+
+.tf500 {
+  --tw-text-opacity: 1;
+  color: rgb(217 70 239 / var(--tw-text-opacity)) /* #d946ef */;
+}
+
+.bgl500 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(132 204 22 / var(--tw-bg-opacity)) /* #84cc16 */;
+}
+
+.tl500 {
+  --tw-text-opacity: 1;
+  color: rgb(132 204 22 / var(--tw-text-opacity)) /* #84cc16 */;
+}
+
+.tg600{
+  --tw-text-opacity: 1;
+  color: rgb(22 163 74 / var(--tw-text-opacity)) /* #16a34a */;
+}
+
+
+
+
+
+
+
+.bbl50 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(183, 206, 217) /* #e7f7fe */;
+}
+
+.bbl300 {
+--tw-bg-opacity: 1;
+background-color: rgb(100 190 242 / var(--tw-bg-opacity)) /* #64bef2 */;
+}
+
+.sb600 {
+--tw-shadow-color: #1e3a8a;
+--tw-shadow: var(--tw-shadow-colored);
+}
+
+.hsb500:hover {
+--tw-shadow-color: #2563eb;
+--tw-shadow: var(--tw-shadow-colored);
+}
+
+.tb500 {
+--tw-text-opacity: 1;
+color: rgb(37 99 235 / var(--tw-text-opacity)) /* #2563eb */;
+}
+
+.tf500 {
+--tw-text-opacity: 1;
+color: rgb(70 130 239 / var(--tw-text-opacity)) /* #4682f4 */;
+}
+
+.bbl500 {
+--tw-bg-opacity: 1;
+background-color: rgb(22 132 204 / var(--tw-bg-opacity)) /* #1684cc */;
+}
+
+.tbl500 {
+--tw-text-opacity: 1;
+color: rgb(22 132 204 / var(--tw-text-opacity)) /* #1684cc */;
+}
+
+.tb600 {
+--tw-text-opacity: 1;
+color: rgb(37, 108, 207) /* #4aa3de */;
+}
