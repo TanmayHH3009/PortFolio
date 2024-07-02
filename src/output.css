@@ -1183,7 +1183,7 @@ html{
   background-color: rgb(22 132 204 / var(--tw-bg-opacity)) /* #1684cc */;
 }
 
-.tbl500 {
+.tb500 {
   --tw-text-opacity: 1;
   color: rgb(22 132 204 / var(--tw-text-opacity)) /* #1684cc */;
 }
@@ -1193,14 +1193,63 @@ html{
   color: rgb(37, 108, 207) /* #4aa3de */;
 }
 
+/* Utility Classes */
+
+.orange-red-light {
+  --tw-bg-opacity: 1;
+  background-color: rgb(233, 227, 181);
+  /* #f7fee7 */
+}
+
+.orange-red-medium {
+  --tw-bg-opacity: 1;
+  background-color: rgb(238, 200, 94);
+  /* #bef264 */
+}
+
+.orange-red-shadow-dark {
+  --tw-shadow-color: #c65e19;
+  --tw-shadow: var(--tw-shadow-colored);
+}
+
+.orange-red-shadow-hover {
+  --tw-shadow-color: #c55822;
+  --tw-shadow: var(--tw-shadow-colored);
+}
+
+.orange-red-text-primary {
+  --tw-text-opacity: 1;
+  color: rgba(41, 133, 75, 0.801);
+  /* #a855f7 */
+}
+
+.orange-red-text-secondary {
+  --tw-text-opacity: 1;
+  color: rgb(39, 101, 45);
+  /* #d946ef */
+}
+
+.orange-red-background {
+  --tw-bg-opacity: 1;
+  background-color: rgb(204, 104, 22);
+  /* #84cc16 */
+}
+
+.orange-red-text-highlight {
+  --tw-text-opacity: 1;
+  color: rgb(204, 104, 22);
+  /* #84cc16 */
+}
+
+.orange-red-text-accent {
+  --tw-text-opacity: 1;
+  color: rgb(163, 60, 22);
+  /* #16a34a */
+}
+
 .hover\:bg-gray-200:hover {
   --tw-bg-opacity: 1;
   background-color: rgb(229 231 235 / var(--tw-bg-opacity));
-}
-
-.hover\:bg-lime-700:hover {
-  --tw-bg-opacity: 1;
-  background-color: rgb(77 124 15 / var(--tw-bg-opacity));
 }
 
 .hover\:text-gray-500:hover {
